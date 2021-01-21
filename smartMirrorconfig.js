@@ -57,7 +57,7 @@ var config = {
 					{			
 
 						symbol: "my calendar",
-						url: "https://calendar.google.com/calendar/embed?src=chitrakishan123%40gmail.com&ctz=Asia%2FKolkata"
+						url: "google calnder link "
 
 
 
@@ -75,7 +75,7 @@ var config = {
 			config: {
 				location: "Bengaluru",
 				locationID: "1277333", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "3583284ff3b401daec3a6b896cc268e4"
+				appid: "api code from openweather API"
 			}
 		},
 		{
@@ -85,7 +85,7 @@ var config = {
 			config: {
 				location: "Bengaluru",
 				locationID: "1277333", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "3583284ff3b401daec3a6b896cc268e4"
+				appid: "api code from openweather API"
 			}
 		},
 		{
@@ -109,10 +109,10 @@ var config = {
 			  position: "top_left",
 
 			  config: {
-			    clientID: "8c40e3a2305a40ba967f6c14733b52c3",
-			    clientSecret: "ce8190548edb4c1c82ea09073b58a33a",
-			    accessToken: "BQCWoc8BOmbVH86JUwlcKhNqr45M8dHwVw98TvdF4k9ELaNrL-2TmsgXtI4l8-Vj6_DB2pC4K8sHmchTF2qHeeTlvCDYJpa8pPiXGuMpphwetaQSsDQiL23krAMHzyPBZcH4QAYcat1qsXXsuEu5dWJkEChlRIsDr5RqK06ZR6pwJg",
-			    refreshToken: "AQB-pK_e19M828eR6orW7GagxA12ARogw7L9dn-cpslgBiRjRHrONVXh535nz1wZl-70aiRRYdx_VApMs3rhCpOPA_X_WTnBuh6Q_sl5kPrN3nvRwbeAfQ51YvSa5SAZXSY"
+			    clientID: "XXXXXXXXXXXXX",
+			    clientSecret: "XXXXXXXXXXXXXX",
+			    accessToken: "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+			    refreshToken: "XXXXXXXXXXXXXXXXXXXXXXXX"
 			  }
 			},
 	{
